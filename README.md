@@ -5,5 +5,5 @@
 <img src="assets/images/figure_1_architecture.png">  
 
 ### Demo Video for a web application 
-[YouTube video link](https//www.youtube.com/watch?v=8cM7p4Oats0)
+[YouTube video link](https://www.youtube.com/watch?v=8cM7p4Oats0)
 
