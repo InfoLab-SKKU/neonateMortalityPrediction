@@ -1,5 +1,8 @@
 ## Multilayer dynamic ensemble model for intensive care unit mortality prediction of neonate patients  
+We propose a multilayer dynamic ensemble-based model to predict mortality as a classification task and LoS as a regression task for neonates admitted to the NICU. The model has been built based on the patient’s time-series data of the first 24 h in the NICU. We utilized a cohort of 3,133 infants from the MIMIC-III real dataset to build and optimize the selected algorithms. It has shown that the dynamic ensemble models achieved better results than other classifiers, and static ensemble regressors achieved better results than classical machine learning regressors. The proposed optimized model is supported by three well-known explainability techniques of SHAP, decision tree visualization, and rule-based system. 
 
+For more details, please check [our
+paper](https://authors.elsevier.com/a/1ftos5SMDQmqeY).
 
 ### The architecture of the proposed framework 
 <img src="assets/images/figure_1_architecture.png">  
