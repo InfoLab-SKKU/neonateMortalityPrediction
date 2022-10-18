@@ -39,3 +39,18 @@ In data analysis folder, you can reproduce the comparison diagrams of the paper.
 #### Explainability (Folder: explainability)  
 In explainability folder, all notebooks are independent from each other. You can run any of them and reproduce the explainabilities on the paper. 
 
+## Citation
+We would appreciate if you consider citing our work when using our code.
+
+```bibtex
+@article{JURAEV2022104216,
+title = {Multilayer dynamic ensemble model for intensive care unit mortality prediction of neonate patients},
+journal = {Journal of Biomedical Informatics},
+volume = {135},
+pages = {104216},
+year = {2022},
+issn = {1532-0464},
+doi = {https://doi.org/10.1016/j.jbi.2022.104216},
+author = {Firuz Juraev and Shaker El-Sappagh and Eldor Abdukhamidov and Farman Ali and Tamer Abuhmed}
+}
+```
